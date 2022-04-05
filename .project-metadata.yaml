@@ -2,16 +2,10 @@ name: Analyzing headlines with spaCy
 description: Demonstrating Named Entity Recognition and some downstream analysis on a Reuters news dataset.
 author: Cloudera Inc.
 specification_version: 1.0
-prototype_version: 1.0
-date: "2021-01-12"
-api_version: 1
+prototype_version: 2.0
+date: "2022-04-05"
 
 runtimes:
   - editor: JupyterLab
-    kernel: Python 3.6
+    kernel: Python 3.9
     edition: Standard
-
-engine_images:
-  - image_name: engine
-    tags:
-      - 14

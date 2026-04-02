@@ -7,5 +7,5 @@ date: "2022-04-05"
 
 runtimes:
   - editor: JupyterLab
-    kernel: Python 3.9
+    kernel: Python 3.12
     edition: Standard

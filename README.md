@@ -18,7 +18,7 @@ There are three ways to launch this notebook on CML:
 2. **As ML Prototype** - In a CML workspace, click "New Project", add a Project Name, select "ML Prototype" as the Initial Setup option, copy in the [repo URL](https://github.com/cloudera/CML_AMP_SpaCy_Entity_Extraction), click "Create Project", click "Configure Project"
 3. **Manual Setup** - In a CML workspace, click "New Project", add a Project Name, select "Git" as the Initial Setup option, copy in the [repo URL](https://github.com/cloudera/CML_AMP_SpaCy_Entity_Extraction), click "Create Project".
 
-Once the project has been initialized in a CML workspace, run the notebook by starting a Python 3 Jupyter notebook server session. All library and model dependencies are installed inline in the notebook.
+Once the project has been initialized in a CML workspace, run the notebook by starting a **Python 3.12** JupyterLab session. All library and model dependencies are installed inline in the notebook.
 
 Happy hacking!
 
